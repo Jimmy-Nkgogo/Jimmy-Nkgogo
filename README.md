@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Jimmy Nkgogo
+- I'm a student who recently started programming in python
+- I am very interested in programming and I see myself as a programmer in a few years
+- I hope I will be able to find a good programming community here.
